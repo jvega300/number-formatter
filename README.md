@@ -1,7 +1,8 @@
-Number Formatter (npm package) -> https://www.npmjs.com/package/@jvega300/number-formatter
+Number Formatter (npm package)
 =========
 
-A small library that adds commas to numbers
+A small library that adds commas to numbers.
+https://www.npmjs.com/package/@jvega300/number-formatter
 
 ## Installation
 
