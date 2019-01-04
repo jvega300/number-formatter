@@ -9,8 +9,8 @@ A small library that adds commas to numbers
 
 ## Usage
 
-    var numFormatter = require('@jvega300/number-formatter');
-
+    import numFormmater  from '@jvega300/number-formatter'
+    
     var formattedNum = numFormatter(35666);
   
   
