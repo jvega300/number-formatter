@@ -1,7 +1,7 @@
 'use strict'
 
 var expect = require('chai').expect;
-var numFormatter = require('../index');
+var numFormatter = require('../index').default;
 
 describe('#numFormatter', function(){
     
